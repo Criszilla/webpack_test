@@ -1,0 +1,20 @@
+{
+  "name": "webpack4",
+  "version": "1.0.0",
+  "description": "project webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "webpack",
+    "cris"
+  ],
+  "author": "Criszilla",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "4.41.2",
+    "webpack-cli": "3.3.10"
+  }
+}
